@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./sitemaps_xsl.xsl"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>./index.html</loc>
-<lastmod>2024-05-15T23:38:32+02:00</lastmod>
-<image:image>
-<image:loc><![CDATA[./wp-content/uploads/2024/05/photo-moi-150x150.jpg]]></image:loc>
-</image:image></url>
+<loc>./activite-openlab/index.html</loc>
+<lastmod>2024-05-16T13:19:55+02:00</lastmod></url>
 <url>
 <loc>./projet-professionnel/index.html</loc>
-<lastmod>2024-05-15T23:05:17+02:00</lastmod>
+<lastmod>2024-05-16T11:10:52+02:00</lastmod></url>
+<url>
+<loc>./index.html</loc>
+<lastmod>2024-05-16T11:08:13+02:00</lastmod>
 <image:image>
-<image:loc><![CDATA[./wp-content/uploads/2024/05/candidature-acceptee-e1715720713281.png]]></image:loc>
+<image:loc><![CDATA[./wp-content/uploads/2024/05/photo-moi-150x150.jpg]]></image:loc>
 </image:image></url>
 <url>
 <loc>./tables-de-conversation/index.html</loc>
@@ -36,9 +36,6 @@
 <image:loc><![CDATA[./wp-content/uploads/2024/05/labo_reseau.jpg]]></image:loc>
 </image:image></url>
 <url>
-<loc>./activite-openlab/index.html</loc>
-<lastmod>2024-05-14T22:49:10+02:00</lastmod></url>
-<url>
 <loc>./portfolio/index.html</loc>
 <lastmod>2024-05-14T18:08:27+02:00</lastmod>
 <image:image>
@@ -52,7 +49,4 @@
 </image:image></url>
 <url>
 <loc>./portfolio-2/index.html</loc>
-<lastmod>2024-05-14T16:21:56+02:00</lastmod></url>
-<url>
-<loc>./hackatons-capture-the-flag-copy/index.html</loc>
-<lastmod>2024-05-11T22:50:35+02:00</lastmod></url></urlset>
+<lastmod>2024-05-14T16:21:56+02:00</lastmod></url></urlset>
